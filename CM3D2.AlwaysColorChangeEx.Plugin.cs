@@ -15,7 +15,6 @@ using CM3D2.AlwaysColorChangeEx.Plugin.Data;
 using CM3D2.AlwaysColorChangeEx.Plugin.UI;
 using CM3D2.AlwaysColorChangeEx.Plugin.Util;
 
-[assembly: AssemblyVersion("1.0.*")]
 namespace CM3D2.AlwaysColorChangeEx.Plugin {
 [PluginFilter("CM3D2x64"),
  PluginFilter("CM3D2x86"),
@@ -24,7 +23,7 @@ namespace CM3D2.AlwaysColorChangeEx.Plugin {
  PluginFilter("CM3D2OHx64"),
  PluginFilter("CM3D2OHVRx64"),
  PluginName("CM3D2_ACCex"),
- PluginVersion("0.2.9.5")]
+ PluginVersion("0.2.9.5V")]
 class AlwaysColorChangeEx : UnityInjector.PluginBase
 {
     // プラグイン名
